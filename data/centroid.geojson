@@ -2,6 +2,6 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [39.412693, -79.60295]
+    "coordinates": [-79.60295, 39.412693]
   }
 }
