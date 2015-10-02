@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+  <title>Top 25 Liberal Arts Colleges</title>
+  <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+  <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+  
+  <!-- Just take this from https://github.com/Guerillero/Route-66 it isn't worth recomiting the template's css  -->
+  <link rel="stylesheet" href="/Route66/main.css" />
+  
+  <!-- Just the easiest way to imbed these-->
+  <link rel="stylesheet" href="http://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.css" />
+	<link rel="stylesheet" href="http://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.Default.css" />
+	<script src="http://leaflet.github.io/Leaflet.markercluster/dist/leaflet.markercluster-src.js"></script>
+	
+</head>
+<body>
+  <div id = "holder">
+    <div id= "sidebar">
+      <center><h2>Top 25 Liberal Arts Colleges</h2></center>
+    <br>
+    Presented are the top 25 Liberal Arts colleges according to the most recent <a href="http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-liberal-arts-colleges" target="_blank">US News and World Report rankings</a>. When you click on a blue bubble, it brings up the school's name, ranking, and a link to the corresponding wikipedia page.
+    <br><br>
+    Colored discs with numbers group results when they are geographically close together.
+    <br><br>
+    <div id =box>
+    Created by <a href="http://guerillero.net" target="_blank">Thomas Fish</a>. <br />
+    &copy; 2015 Some rights reserved. Code is available under the <a href="https://github.com/Guerillero/LiberalArts/blob/master/LICENSE" target="_blank">MIT License</a> on <a href="https://github.com/Guerillero/LiberalArts" target="_blank">Github</a>.
+      </div>
+    </div>
+    <div id="map"></div>
+    <script src="/LiberalArts/main.js"></script>
+  </div>
+</body>
