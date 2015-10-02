@@ -1,0 +1,200 @@
+{ "type": "FeatureCollection",
+	"features": [
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-73.9584, 41.3927]},
+		"properties": {
+			"title": "United_States_Military_Academy",
+			"type": "22"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.714, 34.098]},
+		"properties": {
+			"title": "Pomona_College",
+			"type": "4"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-69.963, 43.909]},
+		"properties": {
+			"title": "Bowdoin_College",
+			"type": "4"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-104.823, 38.848]},
+		"properties": {
+			"title": "Colorado_College",
+			"type": "25"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-76.4837, 38.981]},
+		"properties": {
+			"title": "United_States_Naval_Academy",
+			"type": "9"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-92.7247, 41.7436]},
+		"properties": {
+			"title": "Grinell_College",
+			"type": "19"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-72.5169, 42.3708]},
+		"properties": {
+			"title": "Amherst_College",
+			"type": "2"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-72.6381, 42.3181]},
+		"properties": {
+			"title": "Smith_College",
+			"type": "14"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-75.5364, 42.8194]},
+		"properties": {
+			"title": "Colgate_University",
+			"type": "19"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.709, 34.1061]},
+		"properties": {
+			"title": "Harvey_Mudd_College",
+			"type": "None"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-70.2042, 44.1056]},
+		"properties": {
+			"title": "Bates_College",
+			"type": "25"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-75.4057, 43.0524]},
+		"properties": {
+			"title": "Hamilton_College_(New_York)",
+			"type": "14"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-75.3539, 39.905]},
+		"properties": {
+			"title": "Swarthmore_College",
+			"type": "3"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-69.6631, 44.5642]},
+		"properties": {
+			"title": "Colby_College",
+			"type": "19"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-93.1538, 44.4619]},
+		"properties": {
+			"title": "Carleton_College",
+			"type": "8"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-72.6558, 41.5556]},
+		"properties": {
+			"title": "Wesleyan_University",
+			"type": "14"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-71.3067, 42.2953]},
+		"properties": {
+			"title": "Wellesley_College",
+			"type": "4"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-73.2031, 42.7127]},
+		"properties": {
+			"title": "Williams_College",
+			"type": "1"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-75.3072, 40.0097]},
+		"properties": {
+			"title": "Haverford_College",
+			"type": "12"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-73.8952, 41.6869]},
+		"properties": {
+			"title": "Vassar_College",
+			"type": "12"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-73.1772, 44.0089]},
+		"properties": {
+			"title": "Middlebury_College",
+			"type": "4"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.707, 34.1017]},
+		"properties": {
+			"title": "Claremont_McKenna_College",
+			"type": "9"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-82.2186, 41.2929]},
+		"properties": {
+			"title": "Oberlin_College",
+			"type": "23"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-82.3958, 40.3764]},
+		"properties": {
+			"title": "Kenyon_College",
+			"type": "25"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-93.168, 44.9392]},
+		"properties": {
+			"title": "Macalester_College",
+			"type": "23"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-75.3136, 40.0264]},
+		"properties": {
+			"title": "Bryn_Mawr_College",
+			"type": "25"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-79.4443, 37.7866]},
+		"properties": {
+			"title": "Washington_and_Lee_University",
+			"type": "14"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-80.8453, 35.5]},
+		"properties": {
+			"title": "Davidson_College",
+			"type": "9"
+			}
+		}
+	]
+}
